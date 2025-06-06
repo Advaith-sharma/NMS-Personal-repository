@@ -1,5 +1,5 @@
 Updated dashboard design on 6th June:
-![Uploading Screenshot 2025-06-06 210844.png…]()
+![Screenshot 2025-06-06 210844](https://github.com/user-attachments/assets/88c2ef51-d802-4d45-9992-f18a7b8ea9c0)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
