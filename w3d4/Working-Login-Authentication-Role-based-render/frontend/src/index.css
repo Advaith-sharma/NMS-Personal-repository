@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Optional: Set a base font for the app */
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+/* Remove default body margin and ensure full height */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* Remove all custom styling for a, h1, button, etc.
+   Tailwind will handle these via utility classes. */
